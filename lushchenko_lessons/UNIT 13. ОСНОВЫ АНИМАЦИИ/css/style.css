@@ -1,0 +1,23 @@
+.anime {
+    width: 100px;
+    height: 100px;
+    background: green;
+    animation: pp;
+    animation-duration: 5s;
+    margin: 0 auto;
+    
+    
+}
+
+@keyframes pp {
+    from {
+
+
+    }
+    to {
+        width: 500px;
+        height: 500px;
+        background: grey;
+        border-radius: 50%;
+    }
+}

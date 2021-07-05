@@ -1,0 +1,24 @@
+.container {
+    width: 80%;
+    background-color: aliceblue;
+}
+.main-box {
+    width: 90%;
+    margin: 50px auto;
+    background-color: aqua;
+    text-align: center;
+    position: relative;
+}
+.girl-box {
+
+    /* width: 90%; */
+    margin: 0 auto;
+    margin-top: 50px;
+    position: relative;
+    
+}
+img {
+    width: 30%;
+    margin: 50px auto;
+
+}

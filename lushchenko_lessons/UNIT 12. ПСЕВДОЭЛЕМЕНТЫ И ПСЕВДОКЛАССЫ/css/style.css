@@ -1,0 +1,25 @@
+.one::before {
+    content: "Hello,  ";
+}
+
+.one {
+    font-weight: bolder;
+}
+
+p::after {
+    content: "********";
+    display: block;
+    text-align: center;
+}
+
+p {
+    font-size: larger;
+    font-weight: bolder;
+}
+.my_qoute::before {
+    content: "<<";
+
+}
+.my_qoute::after {
+    content: ">>";
+}
