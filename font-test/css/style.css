@@ -1,0 +1,24 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    width: 1000px;
+    font-family: 'Pacifico', cursive;
+    font-weight: 700;
+    font-size: 40px;
+    border: 2px solid #ccc;
+    display: block;
+    margin: 0 auto;
+}
+
+.main2 {
+    width: 800px;
+    font-family: 'Viaoda Libre', cursive;
+    font-weight: 700;
+    font-size: 40px;
+    border: 3px solid #ddd;
+    margin: 0 auto;
+    margin-top: 50px;
+}
